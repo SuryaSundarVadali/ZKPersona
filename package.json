@@ -1,0 +1,9 @@
+{
+  "name": "ZKPersona",
+  "version": "1.0.0",
+  "description": "The Circom ZKPersona circuit.",
+  "scripts": {},
+  "dependencies": {
+    "circomlib": "^2.0.5"
+  }
+}
